@@ -9,7 +9,7 @@ from rich.console import Console
 from rich.prompt import Prompt, IntPrompt
 from rich.text import Text
 from rich.style import Style
-from cpmgala import cpmgala
+from cpmgala import CPMGALA
 
 __CHANNEL_USERNAME__ = "cpmgala"
 __GROUP_USERNAME__   = "cpmgala_chat"
